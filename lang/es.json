@@ -1,0 +1,17 @@
+{
+    "alreadySearching": "Ya estoy buscando los ítems. Avísame si quieres que detenga la búsqueda y vuelva a buscar.",
+    "invalidSearchParams": "Debes especificar el nombre de lo que deseas buscar.",
+    "searchingFor": "Buscando {0} en el almacén...",
+    "alreadyDepositing": "Ya estoy depositando ítems.",
+    "searchStopped": "Búsqueda detenida.",
+    "searchFinished": "Búsqueda completada.",
+    "initialPosSet": "Posición inicial establecida en {0}.",
+    "goalSet": "Objetivo establecido en {0}.",
+    "goalReached": "Ya he llegado al objetivo.",
+    "pathStopped": "Ruta detenida.",
+    "droppingItems": "Dejando caer ítems...",
+    "unableToOpenChest": "No he podido abrir el cofre en {0}.",
+    "unableToProcessChest": "No se puede procesar el cofre en {0}: {1}.",
+    "unableToFinishDeposit": "No se puede completar el depósito, no queda espacio en el almacén. Regresando a la posición inicial...",
+    "depositFinished": "Depósito terminado, regresando a la posición inicial..."
+}

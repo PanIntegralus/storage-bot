@@ -1,0 +1,17 @@
+{
+    "alreadySearching": "I’m already looking for items. Let me know if you want me to stop and search again.",
+    "invalidSearchParams": "You must specify the name of what you want to search for.",
+    "searchingFor": "Searching for {0} in storage...",
+    "alreadyDepositing": "I’m already depositing items.",
+    "searchStopped": "Search stopped.",
+    "searchFinished": "Search finished.",
+    "initialPosSet": "Initial position set at {0}.",
+    "goalSet": "Goal set at {0}.",
+    "goalReached": "Goal reached.",
+    "pathStopped": "Path stopped.",
+    "droppingItems": "Dropping items...",
+    "unableToOpenChest": "Unable to open chest at {0}.",
+    "unableToProcessChest": "Unable to process chest at {0}: {1}",
+    "unableToFinishDeposit": "Unable to finish deposit, no space left in storage. Returning to initial position...",
+    "depositFinished": "Deposit finished, returning to initial position..."
+}

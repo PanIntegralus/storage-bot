@@ -1,0 +1,15 @@
+{
+  "name": "storage-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PanIntegralus",
+  "license": "MIT",
+  "description": "Minecraft bot made for SMP",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}

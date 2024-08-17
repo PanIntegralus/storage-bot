@@ -1,0 +1,22 @@
+{
+    "authType": "microsoft",
+    "offlineUsername": "Dummy",
+    "server": {
+        "host": "localhost",
+        "port": 25565,
+        "version": "1.20.1"
+    },
+    "initialPos": {
+        "onSpawn": true,
+        "coords": [183, -58, -140]
+    },
+    "chat": {
+        "lang": "en",
+        "onLogin": ["/server survival1"],
+        "sleepTime": 20
+    },
+    "validStorageChests": {
+        "corner1": [191, -54, -176],
+        "corner2": [188, -58, -45]
+    }
+}
