@@ -7,7 +7,7 @@
         "version": "1.20.1"
     },
     "initialPos": {
-        "onSpawn": true,
+        "onSpawn": false,
         "coords": [183, -58, -140]
     },
     "chat": {
