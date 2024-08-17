@@ -41,3 +41,7 @@ Available commands:
 - `savepos`: Change the initial position to current bot position.
 - `goto <x> <y> <z>`: Set goal to said position.
 - `tossall`: Drop all items on the bot's inventory to the floor.
+
+## Demo
+
+https://github.com/user-attachments/assets/2d269c9f-db2f-4bdd-ba7b-acf65936e9f3
